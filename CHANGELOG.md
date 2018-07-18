@@ -15,3 +15,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - wildcard-dev.key
 - nginx.conf
 - import_certs.sh
+
+### Removed
+- authorized_roles ENV var
